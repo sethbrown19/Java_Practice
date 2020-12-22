@@ -12,3 +12,4 @@ public class Practice
 		System.out.print(smallPrimes);
 	}
 }
+  
